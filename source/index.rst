@@ -3,11 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-hello,Welcome to sphinx's documentation!
+sphinx 安装说明
 ==================================
 
-Contents:
+安装
+－－－
+非root用户安装命令：sudo easy_install sphinx
 
+快速开始建立项目
+－－－－－－－－
+sphinx-quickstart
+一直默认
 .. toctree::
    :maxdepth: 2
 
