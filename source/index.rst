@@ -7,14 +7,16 @@ sphinx 安装说明
 ==================================
 
 安装
-=====
+----
 
-   非root用户安装命令：sudo easy_install sphinx
+非root用户安装命令：sudo easy_install sphinx
 
 快速开始建立项目
 =============
-   sphinx-quickstart
-   一直默认 
+sphinx-quickstart
+
+一直默认
+
 .. toctree::
    :maxdepth: 2
 
